@@ -1,5 +1,6 @@
 # LMCS_V2
 激光打標校準系統（LMCS）
+
 Laser Marking Calibration System (LMCS)
 
 這是用於您的激光打標機的校準系統。
